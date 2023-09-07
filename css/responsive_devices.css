@@ -1,0 +1,107 @@
+/*
+	
+*/
+
+@media (max-width: 480px){
+   
+	.nopadding-mob{
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .awlsora{
+        padding-left: 0;
+        padding-right: 0;
+        height: 500px;
+    }
+    .tanisora{
+        padding-left: 0;
+        padding-right: 0;
+        height: 500px;
+    }
+    .title{
+        margin-left: 0% !important;
+        padding-top: 30px;
+    }
+    .firstarticle{
+        font-size: 20px;
+        padding-block: 28px;
+    }
+    .secondarticle{
+        margin-left: 0px;
+    }
+
+
+}
+
+
+@media (min-width: 576px) {
+  
+   
+    .nopadding-mob{
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .awlsora{
+        padding-left: 0;
+        padding-right: 0;
+        height: 500px;
+    }
+    .tanisora{
+        padding-left: 0;
+        padding-right: 0;
+        height: 500px;
+    }
+    .title{
+        margin-left: 0% !important;
+        padding-top: 30px;
+    }
+    .firstarticle{
+        font-size: 20px;
+        padding-block: 28px;
+    }
+    .secondarticle{
+        margin-left: 0px;
+    }
+    .photoinseceight{
+        padding-left: 0;
+        padding-right: 0;
+        height: 500px;
+    }
+
+        
+	
+}
+
+
+@media (min-width: 768px) {
+  
+	.photoinseceight{
+        padding-left: 0;
+        padding-right: 0;
+        height: 500px;
+       
+    }
+    .divaboutphotoinseceight{
+        justify-content: center;
+
+    }
+
+}
+
+
+@media (min-width: 992px) {
+	
+	
+
+}
+
+
+@media (min-width: 1024px) {
+	
+}
+
+@media (min-width: 1200px) {
+	
+}
+
+@media (min-width: 1800px) {}

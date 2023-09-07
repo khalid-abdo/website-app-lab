@@ -1,0 +1,165 @@
+@font-face{
+    src: url(/webfonts/FontsFree-Net-Poppins-Regular.ttf);
+    font-family: pop;
+    src: url(/webfonts/FontsFree-Net-Poppins-SemiBold.ttf);
+    font-family: khalid;
+    src: url(/webfonts/FontsFree-Net-Poppins-Bold.ttf);
+    font-family: abdo;
+}
+body{
+    font-family: khalid;
+}
+p{
+    font-family: pop;
+}
+a{
+    font-family: pop;
+}
+.row,.d-flex {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.tmt
+{
+    background-image: url(../images/Untitled-1.pngkkkk.png);
+    
+    background-size: cover;
+    
+}
+.tnt{
+    background-image: url(../images/Untitled-2.png2222.png);
+    background-repeat: no-repeat;
+    background-position: bottom center;
+}
+.kh{
+    background-color: rgb(226, 234, 237);
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+    border-radius: 28px;
+}
+
+
+.firstimg{
+    height: 80%; 
+    margin-top: 10%;
+    
+}
+.first{
+    padding-left: 30px;
+    
+}
+
+
+
+.secondsec{
+    margin-top: 15%;
+    
+}
+.thirdh{
+    padding-left: 40px;
+    
+
+    
+    
+}
+.threephoto{
+    font-size: 13px;
+    padding: 0;
+    margin-top: 50px;
+    
+}
+.title{
+    margin-left: 30px;
+}
+.secondarticle{
+    border-left:solid;
+    margin-left: 50px;
+}
+.b2 {
+    padding: 10px;
+    
+    
+}
+#sixth{
+    padding-block: 50px;
+    border-bottom: 1px ridge;
+}
+.articleaboutdesign{
+    padding-block: 50px;
+
+}
+#seventh{
+    padding-block: 50px;
+}
+#ninth{
+    border-bottom: 1px ridge;
+}
+#tewlfth{
+    border-top: 1px ridge;
+    margin-top: 50px;
+}
+.beforelastsc{
+    padding-top: 20px;
+}
+#thirteenth{
+    background-image: url(../images/Untitled-1.png011244444.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+}
+.lastimg{
+    padding-block: 40px;
+}
+.lastarticle{
+    padding-bottom: 40px;
+}
+.lasticon{
+    padding-bottom: 60px;
+}
+
+.mo{
+    position: relative;
+    overflow: hidden;
+    text-align: center;
+}
+
+
+.twic{
+    position: absolute;
+    color: aliceblue;
+    top: 0;
+    opacity: 0;
+    width: 91%;
+    height: 100%;
+    font-size: 1rem;
+    background-color: rgba(42, 63, 85, 0.7);
+    transition: top 1s , transform 1s ;
+}
+:hover.twic{
+    opacity: 1;
+    transform: rotate(360deg);
+
+}
+.twic h2{
+    left: 120%;
+    position: relative;
+    background-color: #2a3f55;
+    transition: 1s 1s left;
+}
+.twic:hover h2{
+    left: 0;
+}
+.twic p{
+    left: 120%;
+    position: relative;
+    background-color: #2a3f55;
+    transition: 1s 1.5s left;
+}
+.twic:hover p{
+    left: 0;
+}
